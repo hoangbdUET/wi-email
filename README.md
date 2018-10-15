@@ -1,2 +1,2 @@
 # wi-email
-email service using aws ses and kue
+Email service using AWS SES and kue module

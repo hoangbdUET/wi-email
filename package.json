@@ -1,0 +1,26 @@
+{
+  "name": "wi-email",
+  "version": "1.0.0",
+  "description": "Email service using AWS SES and kue module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangbdUET/wi-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangbdUET/wi-email/issues"
+  },
+  "homepage": "https://github.com/hoangbdUET/wi-email#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.4",
+    "kue": "^0.11.6",
+    "nodemailer": "^4.6.8"
+  }
+}
